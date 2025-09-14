@@ -21,4 +21,5 @@ It can be applied to student campuses, hostels, or city navigation.
 ## 🛠 How to Run
 1. Clone this repo:
    ```bash
-    https://github.com/PawarSakshi777/dijkstra-campus-navigation.git# Dijkstras-campus-navigation
+    https://github.com/pawarsakshi777/dijkstra-campus-navigation.git
+# Dijkstras-campus-navigation
